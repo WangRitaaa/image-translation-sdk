@@ -1,0 +1,33 @@
+# 图像翻译SDK依赖包
+
+# 核心依赖
+opencv-python>=4.5.0
+numpy>=1.21.0
+Pillow>=9.0.0
+
+# 图像处理
+# imkit>=0.1.0  # 无法找到该包，已移除
+
+# 机器学习推理
+onnxruntime>=1.10.0
+torch>=1.9.0
+
+# OCR相关
+cnocr>=2.2.2
+
+# 翻译服务
+googletrans>=4.0.0
+requests>=2.25.0
+
+# 配置和工具
+PyYAML>=6.0
+tqdm>=4.60.0  # 进度条显示
+
+# 开发工具（可选）
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
+
+# GPU支持（可选）
+# torch>=1.9.0+cu111
+# onnxruntime-gpu>=1.10.0
