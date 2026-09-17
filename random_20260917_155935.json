@@ -1,0 +1,105 @@
+{
+  "id": "30eb995a-208d-434b-8c65-b583020a109d",
+  "name": "random-payload-xs5k01",
+  "generatedAt": "2026-09-17T15:59:35.661052+08:00",
+  "version": "3.7.8",
+  "description": "Golf charlie bravo golf foxtrot bravo.",
+  "tags": [
+    "alpha",
+    "bravo",
+    "hotel",
+    "echo",
+    "tango"
+  ],
+  "metrics": {
+    "score": 65.067,
+    "count": 8674,
+    "ratio": 0.3827,
+    "enabled": false,
+    "latencyMs": [
+      385.84,
+      388.61,
+      77.35,
+      282.5,
+      4.31,
+      243.95
+    ]
+  },
+  "items": [
+    {
+      "index": 0,
+      "key": "2wt3vkfe",
+      "title": "Sierra delta golf bravo charlie foxtrot golf lima.",
+      "weight": 2.244,
+      "active": true,
+      "meta": {
+        "source": "sdk",
+        "checksum": "d578c2dcb79c469d"
+      }
+    },
+    {
+      "index": 1,
+      "key": "j7ewkbc6",
+      "title": "Quebec mike oscar papa foxtrot charlie.",
+      "weight": 0.247,
+      "active": false,
+      "meta": {
+        "source": "api",
+        "checksum": "eea132d1f6417c99"
+      }
+    },
+    {
+      "index": 2,
+      "key": "nxsj4mcu",
+      "title": "Romeo kilo golf delta tango juliet mike november.",
+      "weight": 2.82,
+      "active": false,
+      "meta": {
+        "source": "sdk",
+        "checksum": "6202807c4b57e12b"
+      }
+    },
+    {
+      "index": 3,
+      "key": "va90ij7m",
+      "title": "Delta delta quebec tango november.",
+      "weight": 3.977,
+      "active": false,
+      "meta": {
+        "source": "api",
+        "checksum": "0493d1edf7c592ce"
+      }
+    },
+    {
+      "index": 4,
+      "key": "29fmvir5",
+      "title": "Tango bravo november lima.",
+      "weight": 4.346,
+      "active": false,
+      "meta": {
+        "source": "webhook",
+        "checksum": "67b87ff7076ac5e4"
+      }
+    },
+    {
+      "index": 5,
+      "key": "qiav8gdf",
+      "title": "Romeo delta foxtrot lima.",
+      "weight": 0.184,
+      "active": true,
+      "meta": {
+        "source": "webhook",
+        "checksum": "7e7e944db17ad670"
+      }
+    }
+  ],
+  "nested": {
+    "level2": {
+      "level3": {
+        "value": "46ca83iujk",
+        "note": "Oscar romeo juliet kilo echo romeo quebec oscar."
+      }
+    }
+  },
+  "checksum": "6dcb23225d0d57510024b14b91ec568f8105fecede0fd0aedb6b5aa085c2265f"
+}
